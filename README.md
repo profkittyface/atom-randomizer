@@ -9,6 +9,7 @@ This script will randomly select a theme (Whether that be a ui or syntax theme) 
 - cson
 
 ### Installation
+Make sure apm is installed. In the editor select Atom > Install Shell Commands
 ```
 pip install -r requirements.txt
 ```
